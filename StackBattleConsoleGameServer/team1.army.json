@@ -1,0 +1,27 @@
+{
+  "TeamName": "First Team",
+  "UnitDescriptions": [
+    {
+      "UnidDescriptionId": 1,
+      "UnitName": "Infantry",
+      "Attack": 1,
+      "Defence": 1,
+      "HitPoints": 2
+    },
+    {
+      "UnidDescriptionId": 2,
+      "UnitName": "Heavy Infantry",
+      "Attack": 2,
+      "Defence": 2,
+      "HitPoints": 2
+    },
+    {
+      "UnidDescriptionId": 3,
+      "UnitName": "Knight",
+      "Attack": 3,
+      "Defence": 3,
+      "HitPoints": 10
+    }
+  ],
+  "Units": [ 1, 2, 3, 1 ]
+}
